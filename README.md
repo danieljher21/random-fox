@@ -38,3 +38,4 @@ En `index.js`, se importa la función `registerImage` desde `lazy.js`. El códig
 ## Cómo usarlo
 
 Para usar este proyecto, simplemente abre el archivo `index.html` en tu navegador. Verás una tarjeta con un título y dos botones. Haz clic en el botón "New Fox" para cargar una nueva imagen de zorro. Haz clic en el botón "Clear Images" para eliminar todas las imágenes del contenedor.
+"# random-fox" 
