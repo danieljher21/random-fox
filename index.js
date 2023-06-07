@@ -1,4 +1,4 @@
-import { registerImage } from "./lazy";
+import { registerImage } from "./lazy.js";
 
 const container = document.querySelector(".container-ppl")
 container.className = "flex flex-col items-center"
